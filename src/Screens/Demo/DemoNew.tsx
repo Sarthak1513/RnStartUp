@@ -62,7 +62,7 @@ function DemoNew() {
                 Activity
               </Typography>
               <Typography color="cornflowerblue" fontSize={25}>
-                Learning 
+                Learning Plan
               </Typography>
               <Typography color="cornflowerblue" fontSize={25}>
                 Progress
